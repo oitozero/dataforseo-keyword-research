@@ -175,3 +175,7 @@ pytest
 ## Credits
 
 Thanks to [Rank Expand Academy](https://www.skool.com/rank-expand-academy).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
